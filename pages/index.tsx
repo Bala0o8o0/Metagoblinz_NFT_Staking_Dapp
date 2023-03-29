@@ -161,10 +161,10 @@ const Home: NextPage = () => {
           <h1 className="text-3xl p-2  font-extrabold text-white  " >TEAM</h1>
 
           <Team name1="B4L4"
-            name2="Ad1T1"
-            name3="T4m1l"
+            name2="4d1T1"
+            name3="14m1L"
             position1="Web3-Developer"
-            position2="Full-Stack-Designer"
+            position2="Nft Artist/Designer"
             position3="Game Designer"
             image1="bala.png"
             image2="aditi.png"
