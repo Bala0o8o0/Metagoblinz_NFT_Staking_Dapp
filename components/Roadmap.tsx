@@ -74,10 +74,10 @@ const Roadmap = () => {
                   </span>
                 </div>
                 <h3 className="mt-8 text-lg font-medium  text-white tracking-tight">
-                  3. Play To Earn  <b className=" text-red-400 animate-pulse" >(Comming soon).......  </b>
+                  3. Mining Game  <b className=" text-red-400 animate-pulse" >(Comming soon).......  </b>
                 </h3>
                 <p className="mt-5 text-base text-slate-100">
-                  Comming soon Create and launch our Metagoblinz PLay to earn Game
+                  Comming soon Create and launch our Metagoblinz Nft Mining Game
                 </p>
               </div>
             </div>
