@@ -171,7 +171,8 @@ const Home: NextPage = () => {
             image3="tamil.png" />
 
         </div>
-        <footer className="text-xl text-center mt-7 text-white font-bold"  >2023 Metagoblinz All Right Reserved.'Under Testing' </footer>
+        <footer className="text-xl text-center mt-7 text-white font-bold">2023 Metagoblinz All Right Reserved.Under Testing &apos;</footer>
+
       </div>
     </div>
   );
