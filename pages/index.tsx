@@ -132,7 +132,7 @@ const Home: NextPage = () => {
           <div className="m-auto  ">
             <h1 className="text-[#955ecf]  p-4 rounded-2xl  text-5xl  font-bold text-center">ABOUT</h1>
 
-            <div className="text-[#955ecf] text-xl p-4 mb-4 "><b className='font-black text-lg' >MetaGoblinz</b>  is a decentralized application that allows users to earn rewards
+            <div className="text-[#955ecf] text-xl p-4 mb-4 "><b className='font-black text-lg' >MetaGoblinz</b> an NFT Staking DAPP which allows users to earn rewards
               in the form of Metagoblinz tokens by staking their ERC721 Metagoblinz NFTs.
               <br></br>
               <br></br>
