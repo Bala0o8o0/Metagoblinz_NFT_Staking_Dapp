@@ -9,7 +9,7 @@ const cyber = Audiowide({
 });
 
 
-// This is the chain your dApp will work on.
+
 const activeChain = "mumbai";
 
 function MyApp({ Component, pageProps }: AppProps) {
