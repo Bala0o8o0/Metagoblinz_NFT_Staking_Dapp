@@ -155,7 +155,7 @@ const Home: NextPage = () => {
         {/* ROADMAP */}
         <Roadmap />
         {/* team----------------- */}
-        <div className="max-w-xl text-center rounded-2xl hover:transition duration-100 transform hover:scale-110
+        {/* <div className="max-w-xl text-center rounded-2xl hover:transition duration-100 transform hover:scale-110
           backdrop-blur-3xl p-1  border-gray-600 
         border-2 mx-auto">
           <h1 className="text-3xl p-2  font-extrabold text-white  " >TEAM</h1>
@@ -170,8 +170,8 @@ const Home: NextPage = () => {
             image2="aditi.png"
             image3="tamil.png" />
 
-        </div>
-        <footer className="text-xl text-center mt-7 text-white font-bold">2023 Metagoblinz All Right Reserved.Under Testing &apos;</footer>
+        </div> */}
+        <footer className="text-xl text-center mt-7 text-white font-bold">2023 Metagoblinz All Right Reserved. Build With 💜 By 0x👽Bala &apos;</footer>
 
       </div>
     </div>
